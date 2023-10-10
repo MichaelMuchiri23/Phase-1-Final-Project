@@ -22,3 +22,8 @@ form {
     padding-top: 5%;
 }
 
+.label {
+    font-size: large;
+    font-style:normal;
+    font-family: 'Courier New', Courier, monospace;
+}

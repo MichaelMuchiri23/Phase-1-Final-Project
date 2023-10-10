@@ -27,3 +27,9 @@ form {
     font-style:normal;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.btn{
+    background-color: rgb(127, 214, 255);
+    border-radius: 12px;
+    padding:2px 20px;
+}

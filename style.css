@@ -16,3 +16,9 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(67, 134, 106);
 }
+
+form {
+    text-align: center;
+    padding-top: 5%;
+}
+

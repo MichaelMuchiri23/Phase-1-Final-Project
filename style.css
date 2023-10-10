@@ -33,3 +33,11 @@ form {
     border-radius: 12px;
     padding:2px 20px;
 }
+
+#video-result,
+#image-result {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}

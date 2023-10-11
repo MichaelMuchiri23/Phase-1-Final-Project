@@ -1,4 +1,4 @@
-//Adding link to API Documentation to the logo
+//Adding link to API Documentation to the eye logo
 const logo=document.querySelector('#logo');
 document.addEventListener('DOMContentLoaded',()=>{
     const a=document.createElement('a');

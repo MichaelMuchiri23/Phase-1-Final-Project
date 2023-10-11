@@ -7,14 +7,16 @@
 }
 
 body{
-    background-color:rgb(96, 166, 223)
+    background-image: url(https://images6.alphacoders.com/133/1330094.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #main-header {
     text-align: center;
     font-style:italic;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(67, 134, 106);
+    color: rgb(74, 57, 221);
 }
 
 form {
@@ -46,14 +48,15 @@ form {
 
 }
 
-#img-url:focus {
+.image-url:focus {
     background-image:;
     width: 40%;
     color: darkgray;
 }
 
 .name {
+    font-style: oblique;
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(18, 19, 18);
+    color: rgb(255, 255, 255);
 }

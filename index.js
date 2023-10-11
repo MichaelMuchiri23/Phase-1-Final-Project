@@ -36,3 +36,9 @@ form.addEventListener('submit',e=>{
 
     })
 })
+
+// Adding event listener to input element
+const input=document.querySelector('#img-url')
+input.addEventListener('click',()=>{
+    input.classList.toggle('image-url')
+})

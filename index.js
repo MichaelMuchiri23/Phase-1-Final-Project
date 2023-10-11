@@ -6,3 +6,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     document.querySelector('#first-div').appendChild(a)
     a.appendChild(logo)
 })
+
+//Adding a submit event listener to the form and performing a fetch
+//request.
+const form=document.querySelector('')

@@ -20,8 +20,19 @@ form.addEventListener('submit',e=>{
         console.log(data)
         const video=document.querySelector('#video-result')
         const ul=document.querySelector('.info')
+        const li1=document.createElement('li')
+        const li2=document.createElement('li')
         const arr=data.result
 
+        li1.className='name'
+        li2.className='name'
+
         video.src=arr[0].video
+        li1.textContent=arr[0].filename
+        li2.textContent=arr[0].episode
+
+        ul.appendChild(li1)
+        ul.appendChild(li2)
+
     })
 })

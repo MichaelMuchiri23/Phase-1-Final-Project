@@ -15,8 +15,9 @@ body{
 #main-header {
     text-align: center;
     font-style:italic;
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(74, 57, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(191, 5, 238);
+    font-weight: bolder;
 }
 
 form {
@@ -56,7 +57,7 @@ form {
 
 .name {
     font-style: oblique;
-    font-size: larger;
+    font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(255, 255, 255);
 }

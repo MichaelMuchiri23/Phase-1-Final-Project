@@ -1,0 +1,6 @@
+PHASE 1 FINAL PROJECT
+In this project,I created a website that sends a request to an anime search engine API called Trace.Moe.
+
+You can use the tool by pasting in any image url with an anime scene and the API will return the name of the anime,a short clip of the scene as well as the episode number of the scene.
+
+I hope this can make searching for specific anime scenes and episodes easier for those anime lovers.
